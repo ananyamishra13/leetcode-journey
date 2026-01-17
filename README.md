@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/ananyamishra13/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ananyamishra13/leetcode-journey/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0088-merge-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyamishra13/leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamishra13/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -53,12 +56,14 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyamishra13/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -67,4 +72,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
