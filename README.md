@@ -22,6 +22,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/ananyamishra13/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ananyamishra13/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ananyamishra13/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ananyamishra13/leetcode-journey/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
