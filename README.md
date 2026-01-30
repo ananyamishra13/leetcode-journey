@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ananyamishra13/leetcode-journey/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/ananyamishra13/leetcode-journey/tree/master/0495-teemo-attacking) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ananyamishra13/leetcode-journey/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/ananyamishra13/leetcode-journey/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
