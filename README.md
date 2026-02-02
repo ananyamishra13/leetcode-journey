@@ -26,6 +26,7 @@
 | [0463-island-perimeter](https://github.com/ananyamishra13/leetcode-journey/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/ananyamishra13/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
