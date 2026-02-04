@@ -27,6 +27,7 @@
 | [0495-teemo-attacking](https://github.com/ananyamishra13/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
 ## Counting
 |  |
 | ------- |
