@@ -29,6 +29,7 @@
 | [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/ananyamishra13/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3637-trionic-array-i) |
 ## Two Pointers
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/ananyamishra13/leetcode-journey/tree/master/0605-can-place-flowers) |
 ## Depth-First Search
 |  |
 | ------- |
