@@ -85,6 +85,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ananyamishra13/leetcode-journey/tree/master/0693-binary-number-with-alternating-bits) |
 ## Hash Table
 |  |
 | ------- |
