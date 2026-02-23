@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ananyamishra13/leetcode-journey/tree/master/0053-maximum-subarray) |
@@ -92,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyamishra13/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
