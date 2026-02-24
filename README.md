@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ananyamishra13/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
+| [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
