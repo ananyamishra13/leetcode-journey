@@ -149,6 +149,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 ## Heap (Priority Queue)
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
