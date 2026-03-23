@@ -34,6 +34,7 @@
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/ananyamishra13/leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/ananyamishra13/leetcode-journey/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ananyamishra13/leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3637-trionic-array-i) |
@@ -80,6 +81,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ananyamishra13/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/ananyamishra13/leetcode-journey/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ananyamishra13/leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |
