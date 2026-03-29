@@ -170,6 +170,7 @@
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananyamishra13/leetcode-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
