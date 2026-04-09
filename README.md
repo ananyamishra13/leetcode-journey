@@ -271,6 +271,7 @@ Tools: VS Code | LeetCode | GitHub
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ananyamishra13/leetcode-journey/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
