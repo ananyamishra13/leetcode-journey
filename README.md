@@ -40,10 +40,9 @@
 
 <div align="center">
 
-<img src="https://leetcode-stats-six.vercel.app/api?username=ananya_37&theme=dark" />
+<img src="https://leetcard.jacoblin.cool/ananya_37?theme=dark&font=Karma&ext=heatmap" />
 
 </div>
-
 ---
 
 ## 🧠 DSA Topics Mastery
