@@ -104,7 +104,7 @@ Tools: VS Code | LeetCode | GitHub
 
 </div>
 
-# leetcode-journey
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
