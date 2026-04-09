@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://leetcode-stats-six.vercel.app/?username=ananya_37&theme=dark" />
+<img src="https://leetcode-stats-six.vercel.app/api?username=ananya_37&theme=dark" />
 
 </div>
 
@@ -91,7 +91,7 @@ Tools: VS Code | LeetCode | GitHub
 ## 🔗 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/ananya-mishra-5268962b0/
-* 🧑‍💻 GitHub: YOUR_GITHUB
+* 🧑‍💻 GitHub: https://github.com/ananyamishra13/
 * 🧠 LeetCode: https://leetcode.com/u/ananya_37/
 
 ---
