@@ -1,3 +1,109 @@
+# 👩‍💻 Ananya Mishra | DSA & LeetCode Journey 🚀
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A26AE6,100:3E98FF&height=200&section=header&text=LeetCode%20Journey&fontSize=35&fontColor=ffffff"/>
+
+</div>
+
+---
+
+## 🌟 About Me
+
+* 🎓 B.Tech CSE Student
+* 💻 Passionate about **Data Structures & Algorithms**
+* ☕ Coding primarily in **Java**
+* 🎯 Goal: Crack top tech internships & excel in problem-solving
+
+---
+
+## 📊 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/ananya_37?theme=dark&font=Karma&ext=contest" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+* 🔥 Consistent Daily Challenge Solver
+* 🧩 Solved problems across multiple difficulty levels
+* ⚔️ Active Contest Participant
+* 📅 Completed LeetCode Monthly Challenges
+
+---
+
+## 📈 Problem Solving Progress
+
+<div align="center">
+
+<img src="https://leetcode-stats-six.vercel.app/?username=ananya_37&theme=dark" />
+
+</div>
+
+---
+
+## 🧠 DSA Topics Mastery
+
+```text
+✔ Arrays & Strings
+✔ Linked Lists
+✔ Trees & Binary Trees
+✔ Recursion & Backtracking
+✔ Searching & Sorting
+✔ Dynamic Programming (Learning Phase)
+✔ Graphs (Exploring)
+```
+
+---
+
+## ⚙️ Tech Stack
+
+```java
+Language: Java ☕
+Core Focus: Data Structures + Algorithms
+Tools: VS Code | LeetCode | GitHub
+```
+
+---
+
+## 📅 Current Routine
+
+* 📌 Solve 2–3 problems daily
+* 🔁 Revise patterns & previous questions
+* ⚔️ Participate in weekly contests
+* 🧠 Focus on Medium-level mastery
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Solve 200+ LeetCode Problems
+* 📈 Improve contest rating significantly
+* 🧠 Master Dynamic Programming & Graphs
+* 💼 Crack a top tech internship
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/ananya-mishra-5268962b0/
+* 🧑‍💻 GitHub: YOUR_GITHUB
+* 🧠 LeetCode: https://leetcode.com/u/ananya_37/
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E98FF,100:A26AE6&height=120&section=footer"/>
+
+✨ *Consistency + Curiosity = Growth*
+
+</div>
+
 # leetcode-journey
 <!---LeetCode Topics Start-->
 # LeetCode Topics
