@@ -145,6 +145,7 @@ Tools: VS Code | LeetCode | GitHub
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ananyamishra13/leetcode-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3637-trionic-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
 | ------- |
