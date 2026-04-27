@@ -143,6 +143,7 @@ Tools: VS Code | LeetCode | GitHub
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ananyamishra13/leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/1539-kth-missing-positive-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ananyamishra13/leetcode-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/ananyamishra13/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -222,6 +223,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
+| [2965-find-missing-and-repeated-values](https://github.com/ananyamishra13/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
@@ -237,6 +239,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ananyamishra13/leetcode-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/ananyamishra13/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +268,7 @@ Tools: VS Code | LeetCode | GitHub
 | ------- |
 | [0463-island-perimeter](https://github.com/ananyamishra13/leetcode-journey/tree/master/0463-island-perimeter) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ananyamishra13/leetcode-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/ananyamishra13/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
