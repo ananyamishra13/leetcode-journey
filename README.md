@@ -110,6 +110,7 @@ Tools: VS Code | LeetCode | GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ananyamishra13/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ananyamishra13/leetcode-journey/tree/master/0053-maximum-subarray) |
@@ -150,6 +151,7 @@ Tools: VS Code | LeetCode | GitHub
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ananyamishra13/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0088-merge-sorted-array) |
@@ -252,6 +254,7 @@ Tools: VS Code | LeetCode | GitHub
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ananyamishra13/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ananyamishra13/leetcode-journey/tree/master/0605-can-place-flowers) |
