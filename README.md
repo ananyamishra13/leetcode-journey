@@ -219,6 +219,7 @@ Tools: VS Code | LeetCode | GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyamishra13/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
@@ -241,6 +242,7 @@ Tools: VS Code | LeetCode | GitHub
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ananyamishra13/leetcode-journey/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
@@ -286,6 +288,7 @@ Tools: VS Code | LeetCode | GitHub
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ananyamishra13/leetcode-journey/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
