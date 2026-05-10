@@ -294,6 +294,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamishra13/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/ananyamishra13/leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananyamishra13/leetcode-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
