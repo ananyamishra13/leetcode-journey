@@ -155,6 +155,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0011-container-with-most-water](https://github.com/ananyamishra13/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamishra13/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ananyamishra13/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ananyamishra13/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -292,6 +293,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0006-zigzag-conversion](https://github.com/ananyamishra13/leetcode-journey/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamishra13/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananyamishra13/leetcode-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -312,4 +314,8 @@ Tools: VS Code | LeetCode | GitHub
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananyamishra13/leetcode-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamishra13/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
