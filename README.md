@@ -213,6 +213,7 @@ Tools: VS Code | LeetCode | GitHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ananyamishra13/leetcode-journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ananyamishra13/leetcode-journey/tree/master/0693-binary-number-with-alternating-bits) |
@@ -246,6 +247,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0007-reverse-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/ananyamishra13/leetcode-journey/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ananyamishra13/leetcode-journey/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
@@ -285,6 +287,7 @@ Tools: VS Code | LeetCode | GitHub
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ananyamishra13/leetcode-journey/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/ananyamishra13/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ananyamishra13/leetcode-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
@@ -295,6 +298,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0020-valid-parentheses](https://github.com/ananyamishra13/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamishra13/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ananyamishra13/leetcode-journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ananyamishra13/leetcode-journey/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananyamishra13/leetcode-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
