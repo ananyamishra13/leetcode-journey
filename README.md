@@ -138,6 +138,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0495-teemo-attacking](https://github.com/ananyamishra13/leetcode-journey/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/ananyamishra13/leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -194,6 +195,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0349-intersection-of-two-arrays](https://github.com/ananyamishra13/leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ananyamishra13/leetcode-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ananyamishra13/leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ananyamishra13/leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/1539-kth-missing-positive-number) |
