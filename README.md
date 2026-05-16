@@ -189,6 +189,7 @@ Tools: VS Code | LeetCode | GitHub
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ananyamishra13/leetcode-journey/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamishra13/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
@@ -250,6 +251,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0009-palindrome-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ananyamishra13/leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ananyamishra13/leetcode-journey/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ananyamishra13/leetcode-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ananyamishra13/leetcode-journey/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/ananyamishra13/leetcode-journey/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/0598-range-addition-ii) |
