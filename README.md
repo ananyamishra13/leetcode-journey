@@ -180,6 +180,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ananyamishra13/leetcode-journey/tree/master/0506-relative-ranks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,11 +240,13 @@ Tools: VS Code | LeetCode | GitHub
 | [0500-keyboard-row](https://github.com/ananyamishra13/leetcode-journey/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0575-distribute-candies) |
 | [2965-find-missing-and-repeated-values](https://github.com/ananyamishra13/leetcode-journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ananyamishra13/leetcode-journey/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0410-split-array-largest-sum](https://github.com/ananyamishra13/leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ananyamishra13/leetcode-journey/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ananyamishra13/leetcode-journey/tree/master/0605-can-place-flowers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +316,7 @@ Tools: VS Code | LeetCode | GitHub
 | [0696-count-binary-substrings](https://github.com/ananyamishra13/leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananyamishra13/leetcode-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ananyamishra13/leetcode-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananyamishra13/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
